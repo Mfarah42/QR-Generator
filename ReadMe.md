@@ -5,4 +5,4 @@
 - ### CSS Framework used
   - Tailwind
 
-[Live Demo](https://mfarah.dev)
+[Live Demo](https://willowy-capybara-e14523.netlify.app/)
